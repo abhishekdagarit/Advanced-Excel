@@ -11,22 +11,22 @@ Cheat sheet for Advanced Excel
 ---
 
 
-### Pivot Tables
+#### Pivot Tables
 ---
 
 
 
-### Pivot charts
+#### Pivot charts
 ---
 
 
 
-### Creating a mail merge
+#### Creating a mail merge
 ---
 
 
 
-### Running the mail merge
+#### Running the mail merge
 ---
 
 
